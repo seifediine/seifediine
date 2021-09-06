@@ -43,7 +43,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Seifeddine-Elkorichi-blue?style=flat-square&logo=linkedin"></a>
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seifediine)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Seifeddine-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:seifeddine.elkorichi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-seifeddine.elkorichi@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
