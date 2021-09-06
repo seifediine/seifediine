@@ -39,11 +39,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seifeddine&theme=buefy&layout=compact" />
 <div/>
 
-<a href="https://github.com/Seifediine">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seifeddine&theme=buefy&layout=compact" />
-</a>
-
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
