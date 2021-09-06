@@ -33,6 +33,11 @@
 
 <br/>
 
+<div align="center">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=seifediine&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Seifeddine's Github">
+<div/>
+
 <a href="https://github.com/Seifediine">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Seifeddinetheme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seifeddinetheme=buefy&layout=compact" />
@@ -43,9 +48,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seifediine)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Seifeddine-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/seifediine/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-AVS1508-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:seifeddine.elkorichi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-seifeddine.elkorichi@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
