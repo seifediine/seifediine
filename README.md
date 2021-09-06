@@ -29,14 +29,13 @@
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![Xd](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-xd)
+  ![Xd](https://img.shields.io/badge/-Xd-333333?style=flat&logo=adobe-xd)
 
 <br/>
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=seifediine&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Seifeddine's Github">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seifeddine&theme=buefy&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=seifediine&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Seifeddine's Github">
 <div/>
 
 <br/>
