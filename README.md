@@ -39,8 +39,8 @@
 <div/>
 
 <a href="https://github.com/Seifediine">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Seifeddinetheme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seifeddinetheme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Seifeddine&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seifeddine&theme=buefy&layout=compact" />
 </a>
 
 <br/>
