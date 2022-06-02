@@ -4,9 +4,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Mobile Web Specialist at Google Africa Developer Scholarship.
-- 💼 &nbsp; Working as a Freelance Frontend Developer.
 - 🌱 &nbsp; Learning more about Mobile Development, UI Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing Graphic Design as hobbie.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
